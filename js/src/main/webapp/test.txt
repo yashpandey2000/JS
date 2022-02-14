@@ -1,0 +1,1 @@
+Ajax can change all the content without loading of the page
